@@ -1,12 +1,14 @@
-<html>
+<!DOCTYPE html>
+<html lang="es">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="estilos.css?v=1" />
-  <title>Mini Sitio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mi Página</title>
+  <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
   <div class="container">
+
     <main class="video-principal">
       <div class="player">
         <iframe width="100%" height="450" 
@@ -57,7 +59,7 @@
       </div>
     </aside>
   </div>
-  
+
   <footer>
     <p>Desarrollado por Luis Daniel</p>
   </footer>
